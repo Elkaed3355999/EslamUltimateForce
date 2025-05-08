@@ -46,5 +46,5 @@ pass_field = input("[?] Pass Field Name (e.g. pass): ")
 fail_text = input("[?] Fail Text in Response (e.g. Login failed): ")
 wordlist_path = input("[?] Wordlist Path (e.g. wordlist.txt): ")
 
-brute_force_login(target_url, username, user_field, pass_field, fail_text, wordlist_path)
+brute_force_login(target_url, Eslam Hacker, user_field, pass_field, fail_text, wordlist_path)
 python3 brute.py
